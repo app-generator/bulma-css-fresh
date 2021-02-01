@@ -1,5 +1,21 @@
-# Fresh Landing page
-![](https://cssninja.io/storage/app/media/external/fresh/fresh-hero-ui8.png)
+# [Bulma CSS](https://bulma-css.com/) Fresh
+
+> Fresh is a one page landing page starter built by [Css Ninja Studio](https://cssninja.io). Fresh is licensed under the MIT license.
+
+<br />
+
+> Features & Links
+
+- Bulma version: v0.9.1
+- Sections: Buttons, HERO, Contact, Cards, CTA, Team cards
+- [Bulma Fresh](https://bulma-css.com/fresh/) - product page
+- [Bulma Fresh - DEMO](https://bulma-css-fresh.bulma-css.com/) - LIVE deploy
+
+<br />
+
+![Bulma CSS - Fresh is a one page landing page.](https://raw.githubusercontent.com/app-generator/bulma-css-fresh/master/media/bulma-css-fresh-screen.png)
+
+<br />
 
 Fresh is a one page landing page starter built by [Css Ninja Studio](https://cssninja.io). Fresh is licensed under the MIT license.
 
@@ -110,3 +126,8 @@ To use this template, your computer needs:
 - [Handlebars](http://handlebarsjs.com/)
 - [Panini](https://github.com/zurb/panini)
 - [Gulp](https://gulpjs.org/getting-started)
+
+<br />
+
+---
+[Bulma CSS](https://bulma-css.com/) Krypton - provided by **Bulma-Css.com** 
